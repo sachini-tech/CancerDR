@@ -7,7 +7,6 @@ The resource supports personalized medicine approaches by helping researchers id
 Web Server:  https://github.com/sachini-tech/CancerDR
 
 ZENODO : https://doi.org/10.5281/zenodo.20072377
----
 
 ## Citation
 
