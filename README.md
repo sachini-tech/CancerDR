@@ -5,7 +5,7 @@ CancerDR was developed to address one of the major challenges in cancer treatmen
 The resource supports personalized medicine approaches by helping researchers identify mutations responsible for drug resistance and discover drugs effective against specific cancer types.
 
 Web Server: http://crdd.osdd.net/raghava/cancerdr/
-
+ZENODO : https://doi.org/10.5281/zenodo.20072377
 ---
 
 ## Citation
